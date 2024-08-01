@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieLane1/static/css/main.88de05f2.css",
+    "main.js": "/MovieLane1/static/js/main.9a18197b.js",
+    "static/js/453.e5b00392.chunk.js": "/MovieLane1/static/js/453.e5b00392.chunk.js",
+    "index.html": "/MovieLane1/index.html",
+    "static/media/search.svg": "/MovieLane1/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.88de05f2.css.map": "/MovieLane1/static/css/main.88de05f2.css.map",
+    "main.9a18197b.js.map": "/MovieLane1/static/js/main.9a18197b.js.map",
+    "453.e5b00392.chunk.js.map": "/MovieLane1/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88de05f2.css",
+    "static/js/main.9a18197b.js"
+  ]
+}
